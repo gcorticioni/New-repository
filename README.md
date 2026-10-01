@@ -1,1 +1,2 @@
-# New-repository
+# Receitas do trio
+Integrantes: 
